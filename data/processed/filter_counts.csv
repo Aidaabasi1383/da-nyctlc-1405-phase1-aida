@@ -1,0 +1,2 @@
+raw_rows,excl_duplicate_rows,excl_outside_jan2024,excl_nonpositive_duration,excl_duration_over_4h,excl_nonpositive_distance,excl_nonpositive_fare,excl_speed_over_80mph,analytic_rows
+2964624,0,18,870,1878,59585,34530,1040,2866703

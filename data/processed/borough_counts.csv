@@ -1,0 +1,9 @@
+borough,n_trips,pct
+Manhattan,2571245,89.69
+Queens,257249,8.97
+Brooklyn,22209,0.77
+Unknown,9575,0.33
+Bronx,5741,0.2
+Unmatched (PULocationID not in zone lookup),599,0.02
+Staten Island,43,0.0
+EWR,42,0.0

@@ -1,0 +1,12 @@
+issue,n_rows,pct_of_raw,initial_decision
+Exact duplicate rows,0,0.0,"Drop during cleaning (true duplicate, not a legitimate repeat trip)"
+Missing value in passenger_count,140162,4.728,Keep row; drop only in analyses specifically centered on passenger_count
+Missing value in RatecodeID,140162,4.728,Keep row; RatecodeID is not used centrally in this phase
+Missing value in congestion_surcharge / Airport_fee,140162,4.728,Keep row; these columns are not used in the main question (demand forecasting)
+Pickup timestamp outside January 2024 (data-entry error),18,0.001,Drop; outside the project's defined time scope
+Implausible trip duration: zero or negative,870,0.029,"Drop; timestamp error, physically impossible"
+Implausible trip duration: over 4 hours,1878,0.063,"Drop; most likely a meter left running (abandoned trip), not a real ride"
+Implausible trip distance: zero or negative,60371,2.036,"Drop; without distance, a real trip cannot be defined"
+Implausible base fare: zero or negative (fare_amount <= 0),38341,1.293,Drop; likely a voided transaction or logging error
+Implausible implied speed: over 80 mph,1107,0.037,Drop from the main analytic population; kept separately as an anomaly candidate (Section 12 of the report)
+Zero passenger count (passenger_count == 0),31465,1.061,Keep in the main analytic population (common and documented in TLC data); flag only

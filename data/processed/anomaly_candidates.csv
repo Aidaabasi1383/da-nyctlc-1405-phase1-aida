@@ -1,0 +1,5 @@
+anomaly_type,n_flagged,pct_of_raw
+implausible_speed_gt_80mph,1107,0.0373
+idle_meter_long_duration_zero_fare_move,9749,0.3288
+very_high_fare_per_mile,2905,0.098
+zero_passenger_count,31465,1.0613
