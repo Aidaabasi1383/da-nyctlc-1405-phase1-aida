@@ -1,0 +1,9 @@
+field,before_cleaning,after_cleaning
+passenger_count,140162,115127
+RatecodeID,140162,115127
+store_and_fwd_flag,140162,115127
+trip_distance,0,0
+fare_amount,0,0
+duration_min,0,0
+PULocationID missing or unknown,12018,10174
+DOLocationID missing or unknown,28080,24659

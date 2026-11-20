@@ -1,0 +1,7 @@
+candidate,train_count,validation_count
+Non-positive duration,566,220
+Duration over four hours,1282,431
+Speed over 80 mph with positive duration,749,252
+Non-positive distance,42401,13260
+Non-positive base fare,25609,9270
+Base fare at least $250,412,131
