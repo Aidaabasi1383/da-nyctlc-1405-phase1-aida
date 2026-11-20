@@ -1,0 +1,4 @@
+split,hours,trips,history_ready_hours
+train,504,1899037,336
+validation,168,687858,168
+test,72,279808,72

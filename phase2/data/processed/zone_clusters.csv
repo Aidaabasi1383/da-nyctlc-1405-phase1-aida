@@ -1,0 +1,263 @@
+pickup_zone_id,n_training_pickups,cluster_eligible,Borough,Zone,cluster,pc1,pc2
+2,3,False,Queens,Jamaica Bay,,,
+3,55,False,Bronx,Allerton/Pelham Gardens,,,
+4,2129,True,Manhattan,Alphabet City,1,0.1927559465,0.06307781433
+5,0,False,Staten Island,Arden Heights,,,
+6,13,False,Staten Island,Arrochar/Fort Wadsworth,,,
+7,1087,True,Queens,Astoria,2,-0.02296439879,0.07115739681
+8,8,False,Queens,Astoria Park,,,
+9,30,False,Queens,Auburndale,,,
+10,590,True,Queens,Baisley Park,2,-0.01197866376,0.04036611833
+11,31,False,Brooklyn,Bath Beach,,,
+12,635,True,Manhattan,Battery Park,2,-0.1180839508,-0.08035283503
+13,9524,True,Manhattan,Battery Park City,2,-0.06371213355,-0.05165246197
+14,228,False,Brooklyn,Bay Ridge,,,
+15,23,False,Queens,Bay Terrace/Fort Totten,,,
+16,49,False,Queens,Bayside,,,
+17,304,False,Brooklyn,Bedford,,,
+18,107,False,Bronx,Bedford Park,,,
+19,36,False,Queens,Bellerose,,,
+20,57,False,Bronx,Belmont,,,
+21,77,False,Brooklyn,Bensonhurst East,,,
+22,97,False,Brooklyn,Bensonhurst West,,,
+23,1,False,Staten Island,Bloomfield/Emerson Hill,,,
+24,5209,True,Manhattan,Bloomingdale,2,-0.06246342198,0.03039510886
+25,596,True,Brooklyn,Boerum Hill,2,0.02484800131,0.02790006464
+26,136,False,Brooklyn,Borough Park,,,
+27,3,False,Queens,Breezy Point/Fort Tilden/Riis Beach,,,
+28,244,False,Queens,Briarwood/Jamaica Hills,,,
+29,84,False,Brooklyn,Brighton Beach,,,
+30,3,False,Queens,Broad Channel,,,
+31,5,False,Bronx,Bronx Park,,,
+32,75,False,Bronx,Bronxdale,,,
+33,767,True,Brooklyn,Brooklyn Heights,2,-0.02830276967,0.05082786578
+34,35,False,Brooklyn,Brooklyn Navy Yard,,,
+35,320,False,Brooklyn,Brownsville,,,
+36,188,False,Brooklyn,Bushwick North,,,
+37,323,False,Brooklyn,Bushwick South,,,
+38,71,False,Queens,Cambria Heights,,,
+39,374,False,Brooklyn,Canarsie,,,
+40,209,False,Brooklyn,Carroll Gardens,,,
+41,4416,True,Manhattan,Central Harlem,2,-0.04212321165,0.04745513815
+42,1877,True,Manhattan,Central Harlem North,2,-0.04677858532,0.08693771623
+43,32446,True,Manhattan,Central Park,2,-0.07731371378,-0.05366988471
+44,1,False,Staten Island,Charleston/Tottenville,,,
+45,2527,True,Manhattan,Chinatown,2,0.02403725285,-0.05508663061
+46,5,False,Bronx,City Island,,,
+47,98,False,Bronx,Claremont/Bathgate,,,
+48,50015,True,Manhattan,Clinton East,2,0.046299309,0.004483087014
+49,314,False,Brooklyn,Clinton Hill,,,
+50,10543,True,Manhattan,Clinton West,2,-0.01473149139,0.03198659045
+51,230,False,Bronx,Co-Op City,,,
+52,320,False,Brooklyn,Cobble Hill,,,
+53,22,False,Queens,College Point,,,
+54,34,False,Brooklyn,Columbia Street,,,
+55,177,False,Brooklyn,Coney Island,,,
+56,155,False,Queens,Corona,,,
+57,6,False,Queens,Corona,,,
+58,2,False,Bronx,Country Club,,,
+59,2,False,Bronx,Crotona Park,,,
+60,72,False,Bronx,Crotona Park East,,,
+61,585,True,Brooklyn,Crown Heights North,2,-0.04910656968,0.1227786885
+62,213,False,Brooklyn,Crown Heights South,,,
+63,122,False,Brooklyn,Cypress Hills,,,
+64,34,False,Queens,Douglaston,,,
+65,922,True,Brooklyn,Downtown Brooklyn/MetroTech,2,-0.02694902563,0.01184639263
+66,434,False,Brooklyn,DUMBO/Vinegar Hill,,,
+67,56,False,Brooklyn,Dyker Heights,,,
+68,49617,True,Manhattan,East Chelsea,2,0.002066781174,-0.04108232037
+69,199,False,Bronx,East Concourse/Concourse Village,,,
+70,8150,True,Queens,East Elmhurst,2,-0.008030927789,-0.0462491524
+71,234,False,Brooklyn,East Flatbush/Farragut,,,
+72,267,False,Brooklyn,East Flatbush/Remsen Village,,,
+73,24,False,Queens,East Flushing,,,
+74,3771,True,Manhattan,East Harlem North,2,-0.04635000275,0.0501472835
+75,11446,True,Manhattan,East Harlem South,2,-0.06901464486,0.01287031599
+76,550,True,Brooklyn,East New York,2,-0.08056968389,0.1657041979
+77,142,False,Brooklyn,East New York/Pennsylvania Avenue,,,
+78,116,False,Bronx,East Tremont,,,
+79,43416,True,Manhattan,East Village,1,0.1364854003,0.004859735095
+80,386,False,Brooklyn,East Williamsburg,,,
+81,72,False,Bronx,Eastchester,,,
+82,324,False,Queens,Elmhurst,,,
+83,92,False,Queens,Elmhurst/Maspeth,,,
+84,0,False,Staten Island,Eltingville/Annadale/Prince's Bay,,,
+85,123,False,Brooklyn,Erasmus,,,
+86,141,False,Queens,Far Rockaway,,,
+87,7635,True,Manhattan,Financial District North,2,-0.0003808738754,-0.04635080682
+88,4529,True,Manhattan,Financial District South,2,-0.01355745616,-0.07326849178
+89,330,False,Brooklyn,Flatbush/Ditmas Park,,,
+90,29896,True,Manhattan,Flatiron,2,0.01922924112,-0.02650442808
+91,229,False,Brooklyn,Flatlands,,,
+92,139,False,Queens,Flushing,,,
+93,317,False,Queens,Flushing Meadows-Corona Park,,,
+94,44,False,Bronx,Fordham South,,,
+95,328,False,Queens,Forest Hills,,,
+96,8,False,Queens,Forest Park/Highland Park,,,
+97,664,True,Brooklyn,Fort Greene,2,0.02906116652,0.01513790423
+98,39,False,Queens,Fresh Meadows,,,
+99,0,False,Staten Island,Freshkills Park,,,
+100,31242,True,Manhattan,Garment District,2,-0.01115751366,-0.007726279396
+101,31,False,Queens,Glen Oaks,,,
+102,41,False,Queens,Glendale,,,
+103,0,False,Manhattan,Governor's Island/Ellis Island/Liberty Island,,,
+104,0,False,Manhattan,Governor's Island/Ellis Island/Liberty Island,,,
+105,1,False,Manhattan,Governor's Island/Ellis Island/Liberty Island,,,
+106,88,False,Brooklyn,Gowanus,,,
+107,37909,True,Manhattan,Gramercy,2,0.01501723854,-0.003192663688
+108,74,False,Brooklyn,Gravesend,,,
+109,1,False,Staten Island,Great Kills,,,
+110,0,False,Staten Island,Great Kills Park,,,
+111,0,False,Brooklyn,Green-Wood Cemetery,,,
+112,375,False,Brooklyn,Greenpoint,,,
+113,25940,True,Manhattan,Greenwich Village North,2,0.01755878643,-0.03638071258
+114,27037,True,Manhattan,Greenwich Village South,1,0.1658975782,-0.01623617904
+115,1,False,Staten Island,Grymes Hill/Clifton,,,
+116,1458,True,Manhattan,Hamilton Heights,2,-0.02867088526,0.1214780151
+117,145,False,Queens,Hammels/Arverne,,,
+118,2,False,Staten Island,Heartland Village/Todt Hill,,,
+119,99,False,Bronx,Highbridge,,,
+120,10,False,Manhattan,Highbridge Park,,,
+121,104,False,Queens,Hillcrest/Pomonok,,,
+122,42,False,Queens,Hollis,,,
+123,89,False,Brooklyn,Homecrest,,,
+124,78,False,Queens,Howard Beach,,,
+125,8645,True,Manhattan,Hudson Sq,2,0.02606589491,-0.02131073464
+126,56,False,Bronx,Hunts Point,,,
+127,152,False,Manhattan,Inwood,,,
+128,9,False,Manhattan,Inwood Hill Park,,,
+129,495,False,Queens,Jackson Heights,,,
+130,443,False,Queens,Jamaica,,,
+131,83,False,Queens,Jamaica Estates,,,
+132,99165,True,Queens,JFK Airport,2,0.02948373379,-0.02613541572
+133,69,False,Brooklyn,Kensington,,,
+134,167,False,Queens,Kew Gardens,,,
+135,73,False,Queens,Kew Gardens Hills,,,
+136,70,False,Bronx,Kingsbridge Heights,,,
+137,20862,True,Manhattan,Kips Bay,2,-0.007232193849,-0.01721772641
+138,59512,True,Queens,LaGuardia Airport,2,-0.002793653501,-0.04534874731
+139,84,False,Queens,Laurelton,,,
+140,40869,True,Manhattan,Lenox Hill East,2,-0.06981160278,-0.006100130399
+141,47758,True,Manhattan,Lenox Hill West,2,-0.03303167666,-0.008575785634
+142,68631,True,Manhattan,Lincoln Square East,2,-0.002681751013,-0.04456267252
+143,23119,True,Manhattan,Lincoln Square West,2,-0.06384181978,0.002718356002
+144,17147,True,Manhattan,Little Italy/NoLiTa,1,0.08241075559,-0.04672931831
+145,1011,True,Queens,Long Island City/Hunters Point,2,0.02878349154,0.0235138368
+146,957,True,Queens,Long Island City/Queens Plaza,2,-0.01759050364,0.04451833142
+147,55,False,Bronx,Longwood,,,
+148,18438,True,Manhattan,Lower East Side,1,0.1938014139,0.02388528009
+149,72,False,Brooklyn,Madison,,,
+150,44,False,Brooklyn,Manhattan Beach,,,
+151,16096,True,Manhattan,Manhattan Valley,2,-0.07054017489,0.01834472703
+152,1274,True,Manhattan,Manhattanville,2,-0.0463494028,0.03350203796
+153,25,False,Manhattan,Marble Hill,,,
+154,32,False,Brooklyn,Marine Park/Floyd Bennett Field,,,
+155,120,False,Brooklyn,Marine Park/Mill Basin,,,
+156,0,False,Staten Island,Mariners Harbor,,,
+157,158,False,Queens,Maspeth,,,
+158,15127,True,Manhattan,Meatpacking/West Village West,1,0.08332160224,-0.02343467683
+159,169,False,Bronx,Melrose South,,,
+160,49,False,Queens,Middle Village,,,
+161,88578,True,Manhattan,Midtown Center,2,-0.03150594333,-0.07331439238
+162,66332,True,Manhattan,Midtown East,2,-0.03624241365,-0.03253141594
+163,53474,True,Manhattan,Midtown North,2,-0.02511624641,-0.05674335176
+164,41197,True,Manhattan,Midtown South,2,0.010897618,-0.03905734003
+165,133,False,Brooklyn,Midwood,,,
+166,8780,True,Manhattan,Morningside Heights,2,-0.05900419378,-0.009751388218
+167,158,False,Bronx,Morrisania/Melrose,,,
+168,291,False,Bronx,Mott Haven/Port Morris,,,
+169,103,False,Bronx,Mount Hope,,,
+170,52233,True,Manhattan,Murray Hill,2,-0.0322743723,-0.02655352076
+171,34,False,Queens,Murray Hill-Queens,,,
+172,1,False,Staten Island,New Dorp/Midland Beach,,,
+173,48,False,Queens,North Corona,,,
+174,79,False,Bronx,Norwood,,,
+175,28,False,Queens,Oakland Gardens,,,
+176,2,False,Staten Island,Oakwood,,,
+177,217,False,Brooklyn,Ocean Hill,,,
+178,36,False,Brooklyn,Ocean Parkway South,,,
+179,374,False,Queens,Old Astoria,,,
+180,68,False,Queens,Ozone Park,,,
+181,572,True,Brooklyn,Park Slope,1,0.07321614266,0.02756687475
+182,136,False,Bronx,Parkchester,,,
+183,23,False,Bronx,Pelham Bay,,,
+184,1,False,Bronx,Pelham Bay Park,,,
+185,66,False,Bronx,Pelham Parkway,,,
+186,67417,True,Manhattan,Penn Station/Madison Sq West,2,-0.01244190425,-0.003459803694
+187,0,False,Staten Island,Port Richmond,,,
+188,389,False,Brooklyn,Prospect-Lefferts Gardens,,,
+189,198,False,Brooklyn,Prospect Heights,,,
+190,28,False,Brooklyn,Prospect Park,,,
+191,141,False,Queens,Queens Village,,,
+192,36,False,Queens,Queensboro Hill,,,
+193,365,False,Queens,Queensbridge/Ravenswood,,,
+194,61,False,Manhattan,Randalls Island,,,
+195,210,False,Brooklyn,Red Hook,,,
+196,126,False,Queens,Rego Park,,,
+197,250,False,Queens,Richmond Hill,,,
+198,131,False,Queens,Ridgewood,,,
+199,0,False,Bronx,Rikers Island,,,
+200,56,False,Bronx,Riverdale/North Riverdale/Fieldston,,,
+201,41,False,Queens,Rockaway Park,,,
+202,81,False,Manhattan,Roosevelt Island,,,
+203,110,False,Queens,Rosedale,,,
+204,1,False,Staten Island,Rossville/Woodrow,,,
+205,186,False,Queens,Saint Albans,,,
+206,3,False,Staten Island,Saint George/New Brighton,,,
+207,29,False,Queens,Saint Michaels Cemetery/Woodside,,,
+208,62,False,Bronx,Schuylerville/Edgewater Park,,,
+209,2837,True,Manhattan,Seaport,2,0.04762917726,-0.05650000034
+210,127,False,Brooklyn,Sheepshead Bay,,,
+211,13279,True,Manhattan,SoHo,2,0.04436492303,-0.05601563142
+212,70,False,Bronx,Soundview/Bruckner,,,
+213,165,False,Bronx,Soundview/Castle Hill,,,
+214,3,False,Staten Island,South Beach/Dongan Hills,,,
+215,366,False,Queens,South Jamaica,,,
+216,424,False,Queens,South Ozone Park,,,
+217,102,False,Brooklyn,South Williamsburg,,,
+218,181,False,Queens,Springfield Gardens North,,,
+219,290,False,Queens,Springfield Gardens South,,,
+220,73,False,Bronx,Spuyten Duyvil/Kingsbridge,,,
+221,0,False,Staten Island,Stapleton,,,
+222,162,False,Brooklyn,Starrett City,,,
+223,391,False,Queens,Steinway,,,
+224,2265,True,Manhattan,Stuy Town/Peter Cooper Village,2,-0.01411543792,0.05083489008
+225,350,False,Brooklyn,Stuyvesant Heights,,,
+226,1576,True,Queens,Sunnyside,2,-0.01504951977,0.0926887874
+227,57,False,Brooklyn,Sunset Park East,,,
+228,124,False,Brooklyn,Sunset Park West,,,
+229,35020,True,Manhattan,Sutton Place/Turtle Bay North,2,-0.03061120573,0.0005392385023
+230,69914,True,Manhattan,Times Sq/Theatre District,2,0.01828284435,-0.04582285762
+231,22955,True,Manhattan,TriBeCa/Civic Center,2,0.01183312683,-0.03617389772
+232,2484,True,Manhattan,Two Bridges/Seward Park,1,0.06386578178,-0.01698169958
+233,21031,True,Manhattan,UN/Turtle Bay South,2,-0.04842455097,-0.01297371033
+234,47527,True,Manhattan,Union Sq,2,0.001064286105,-0.05773270202
+235,168,False,Bronx,University Heights/Morris Heights,,,
+236,85563,True,Manhattan,Upper East Side North,2,-0.07999430228,-0.008409248873
+237,88712,True,Manhattan,Upper East Side South,2,-0.05709752492,-0.03356840075
+238,42119,True,Manhattan,Upper West Side North,2,-0.06771213018,0.008940755344
+239,59156,True,Manhattan,Upper West Side South,2,-0.04699212679,-0.01842835019
+240,10,False,Bronx,Van Cortlandt Park,,,
+241,88,False,Bronx,Van Cortlandt Village,,,
+242,106,False,Bronx,Van Nest/Morris Park,,,
+243,278,False,Manhattan,Washington Heights North,,,
+244,1153,True,Manhattan,Washington Heights South,2,-0.0447789227,0.06633169227
+245,0,False,Staten Island,West Brighton,,,
+246,32450,True,Manhattan,West Chelsea/Hudson Yards,2,-0.006953904946,-0.06556618412
+247,176,False,Bronx,West Concourse,,,
+248,72,False,Bronx,West Farms/Bronx River,,,
+249,43324,True,Manhattan,West Village,1,0.1170552691,-0.01545409412
+250,57,False,Bronx,Westchester Village/Unionport,,,
+251,1,False,Staten Island,Westerleigh,,,
+252,41,False,Queens,Whitestone,,,
+253,9,False,Queens,Willets Point,,,
+254,118,False,Bronx,Williamsbridge/Olinville,,,
+255,663,True,Brooklyn,Williamsburg (North Side),1,0.2340973181,0.04743707017
+256,555,True,Brooklyn,Williamsburg (South Side),1,0.1572638555,0.05336885957
+257,47,False,Brooklyn,Windsor Terrace,,,
+258,88,False,Queens,Woodhaven,,,
+259,68,False,Bronx,Woodlawn/Wakefield,,,
+260,438,False,Queens,Woodside,,,
+261,8423,True,Manhattan,World Trade Center,2,-0.04875066405,-0.06814696602
+262,26440,True,Manhattan,Yorkville East,2,-0.08406898782,0.05359697617
+263,38724,True,Manhattan,Yorkville West,2,-0.01944688163,0.003155863055

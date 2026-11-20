@@ -1,0 +1,15 @@
+{
+  "raw_rows": 2964624,
+  "clean_rows": 2866703,
+  "training_trips": 1899037,
+  "official_city_zones": 262,
+  "clustered_zones": 76,
+  "clustered_zone_pickups": 1870492,
+  "suppressed_od_trips": 66,
+  "demand_residual_mad": 332.5,
+  "demand_anomaly_count": 49,
+  "source_sha256": {
+    "yellow_tripdata_2024-01.parquet": "c4d59da7bbc8abaeeeb1727947ee93d9891a71acb42854bd80db1571b2030510",
+    "taxi_zone_lookup.csv": "1a99e105092230f8620f301edcca7f80d3080642ff404d28ed957d3fa222c8ed"
+  }
+}
