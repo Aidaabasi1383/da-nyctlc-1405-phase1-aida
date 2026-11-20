@@ -1,0 +1,16 @@
+{
+  "start": "2024-01-01",
+  "validation_start": "2024-01-22",
+  "test_start": "2024-01-29",
+  "end_exclusive": "2024-02-01",
+  "seed": 42,
+  "min_training_zone_trips": 500,
+  "min_published_od_trips": 20,
+  "lags_hours": [6, 24, 168],
+  "rolling_window_hours": 24,
+  "candidate_k": [2, 3, 4, 5, 6, 7, 8],
+  "kmeans_restarts": 20,
+  "stability_replicates": 20,
+  "zone_subsample_share": 0.8,
+  "anomaly_score_threshold": 3.5
+}
