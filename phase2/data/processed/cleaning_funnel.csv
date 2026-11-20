@@ -1,0 +1,8 @@
+rule,removed,remaining
+Exact duplicates,0,2964624
+Pickup outside January or missing,18,2964606
+Duration missing or non-positive,870,2963736
+Duration over four hours,1878,2961858
+Distance missing or non-positive,59585,2902273
+Base fare missing or non-positive,34530,2867743
+Speed over 80 mph or unavailable,1040,2866703
